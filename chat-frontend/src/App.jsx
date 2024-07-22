@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Chat from "./components/chat/Chat";
 import Detail from "./components/detail/Detail";
 import List from "./components/list/List";
-import Login from "./components/Login/Login";
+import Login from "./components/login/Login";
 // import Notifications from "./components/Notifications/Notifications";
 
 const App = () => {
